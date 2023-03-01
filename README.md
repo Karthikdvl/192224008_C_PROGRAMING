@@ -32,7 +32,7 @@
 | 26 | [26 simple calculator.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/26%20simple%20calculator.cpp) |
 | 27 | [27 Store Information and Display it Using Structure.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/27%20Store%20Information%20and%20Display%20it%20Using%20Structure.cpp) |
 | 28 | [28 print student data using pointer object of structure.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/28%20print%20student%20data%20using%20pointer%20object%20of%20structure.cpp) |
-| 29 | [29 C Program to print the book details.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/29%20C%20Program%20to%20print%20the%20book%20details(.cpp |
+| 29 | [29 C Program to print the book details(.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/29%20C%20Program%20to%20print%20the%20book%20details(.cpp |
 | 30 | [30 Percentage marks of a student using structure.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/30%20Percentage%20marks%20of%20a%20student%20using%20structure.cpp) |
 | 31 | [31 store information of n students.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/31%20store%20information%20of%20n%20students.cpp) |
 | 32 | [32 functions and structures to perform the addition of complex numbers.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/32%20%20functions%20and%20structures%20to%20perform%20the%20addition%20of%20complex%20numbers.cpp) |
