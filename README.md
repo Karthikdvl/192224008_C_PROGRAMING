@@ -56,7 +56,7 @@
 | 8 | [8 counting vowels and consonents.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/8%20counting%20vowels%20and%20consonents.cpp) |
 | 9 | [9 matrix multiplication.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/9%20matrix%20multiplication.cpp) |
 | 10 | [10 sum and average of array.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/10%20sum%20and%20average%20of%20array.cpp) |
-| 11 | ---- |
+| 11 | [11 printing diagnols of a matrix and their sum.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/11%20printing%20diagnols%20of%20a%20matrix%20and%20their%20sum.cpp) |
 | 12 | [12 maximum and minimum in array.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/12%20maximum%20and%20minimum%20in%20array.cpp) |
 | 13 | [13 sum and average of numbers in a matrix format.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/13%20sum%20and%20average%20of%20numbers%20in%20a%20matrix%20format.cpp) |
 | 14 | [14 adding two numbers using call by reference.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/14%20adding%20two%20numbers%20using%20call%20by%20reference.cpp) |
