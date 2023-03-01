@@ -24,21 +24,25 @@
 | 18 | [18 adding two numbers using pointers.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/18%20adding%20two%20numbers%20using%20pointers.cpp) |
 | 19 | [19 maximum number between two numbers using a pionter.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/19%20maximum%20number%20between%20two%20numbers%20using%20a%20pionter.cpp) |
 | 20 | [20 dynamic memory allocation.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/20%20dynamic%20memory%20allocation.cpp) |
-| 21 | [Program 3](https://www.example.com/program-3) |
-| 22 | [Program 3](https://www.example.com/program-3) |
-| 23 | [Program 3](https://www.example.com/program-3) |
-| 24 | [Program 3](https://www.example.com/program-3) |
-| 25 | [Program 3](https://www.example.com/program-3) |
-| 26 | [Program 3](https://www.example.com/program-3) |
-| 27 | [Program 3](https://www.example.com/program-3) |
-| 28 | [Program 3](https://www.example.com/program-3) |
-| 29 | [Program 3](https://www.example.com/program-3) |
-| 30 | [Program 3](https://www.example.com/program-3) |
-| 31 | [Program 3](https://www.example.com/program-3) |
-| 32 | [Program 3](https://www.example.com/program-3) |
-| 33 | [Program 3](https://www.example.com/program-3) |
-| 34 | [Program 3](https://www.example.com/program-3) |
-| 35 | [Program 3](https://www.example.com/program-3) |
+| 21 | [21 calculating length of string using pointer.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/21%20calculating%20length%20of%20string%20using%20pointer.cpp) |
+| 22 | [22 sum of all elements in an array using pointers.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/22%20sum%20of%20all%20elements%20in%20an%20array%20using%20pointers.cpp) |
+| 23 | [23 square of number using functions.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/23%20square%20of%20number%20using%20functions.cpp) |
+| 24 | [24 even or odd using functions.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/24%20even%20or%20odd%20using%20functions.cpp) |
+| 25 | [25 largest element of an array using the function.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/25%20largest%20element%20of%20an%20array%20using%20the%20function.cpp) |
+| 26 | [26 simple calculator.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/26%20simple%20calculator.cpp) |
+| 27 | [27 Store Information and Display it Using Structure.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/27%20Store%20Information%20and%20Display%20it%20Using%20Structure.cpp) |
+| 28 | [28 print student data using pointer object of structure.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/28%20print%20student%20data%20using%20pointer%20object%20of%20structure.cpp) |
+| 29 | [29 C Program to print the book details.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/29%20C%20Program%20to%20print%20the%20book%20details(.cpp) |
+| 30 | [30 Percentage marks of a student using structure.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/30%20Percentage%20marks%20of%20a%20student%20using%20structure.cpp) |
+| 31 | [31 store information of n students.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/31%20store%20information%20of%20n%20students.cpp) |
+| 32 | [32 functions and structures to perform the addition of complex numbers.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/32%20%20functions%20and%20structures%20to%20perform%20the%20addition%20of%20complex%20numbers.cpp) |
+| 33 | [33 store information of n students using union.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/33%20store%20information%20of%20n%20students%20using%20union.cpp) |
+| 34 | [34 Subtracting complex numbers.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/34%20%20Subtracting%20complex%20numbers.cpp) |
+| 35 | [35 Multiplication of two complex numbers.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/35%20Multiplication%20of%20two%20complex%20numbers.cpp) |
+| 36 | [36 Division of two complex numbers.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/36%20Division%20of%20two%20complex%20numbers.cpp) |
+| 37 | [37 storing data of students in a file.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/37%20storing%20data%20of%20students%20in%20a%20file.cpp) |
+
+## Mordarate c programs
 
 
 
