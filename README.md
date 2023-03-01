@@ -48,7 +48,7 @@
 | --- | --- |
 | 1 | [1 Leap year with month and date.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/1%20Leap%20year%20with%20month%20and%20date.cpp) |
 | 2 | [2 sum of digits of a number.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/2%20sum%20of%20digits%20of%20a%20number.cpp) |
-| 3 | ---- |
+| 3 | [3 permutations.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/3%20permutations.cpp) |
 | 4 | [4 print even and odd.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/4%20print%20even%20and%20odd.cpp) |
 | 5 | [5 total users and staf users.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/5%20total%20users%20and%20staf%20users.cpp) |
 | 6 | [6 simple intrest.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/6%20simple%20intrest.cpp) |
