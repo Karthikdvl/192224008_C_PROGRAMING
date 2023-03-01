@@ -80,17 +80,34 @@
 
 ## Essay type programs
 
-
-
-
-
-
-
-
-
-
-
-
+| s.no | program links |
+| --- | --- |
+| 1 | [1 pythogoren triplet.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/1%20pythogoren%20triplet.cpp) |
+| 2 | [2 strong number or not.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/2%20strong%20number%20or%20not.cpp) |
+| 3 | [3 leap year or not with aniversary.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/3%20leap%20year%20or%20not%20with%20aniversary.cpp) |
+| 4 | [4 print n prime numbers and n th prime.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/4%20print%20n%20prime%20numbers%20and%20n%20th%20prime.cpp) |
+| 5 | [5 sorting a list of names.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/5%20sorting%20a%20list%20of%20names.cpp) |
+| 6 | [6 mean median mode.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/6%20mean%20median%20mode.cpp) |
+| 7 | [7 binary search and position in array.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/7%20binary%20search%20and%20position%20in%20array.cpp) |
+| 8 | [8 minimum, maximum and sum.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/8%20minimum%2C%20maximum%20and%20sum.cpp) |
+| 9 | [9 bubble sort algorithm.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/9%20bubble%20sort%20algorithm.cpp) |
+| 10 | [10 selection sort, array of numbers.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/10%20selection%20sort%2C%20array%20of%20numbers.cpp) |
+| 11 | [11 Inserting an element to the array at the specified index.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/11%20Inserting%20an%20element%20to%20the%20array%20at%20the%20specified%20index.cpp) |
+| 12 | [12 merging of two arrays.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/12%20merging%20of%20two%20arrays.cpp) |
+| 13 | [13 finding largest two elements in 1D array.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/13%20finding%20largest%20two%20elements%20in%201D%20array.cpp) |
+| 14 | [14 finding the desired kth smallest element in array.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/14%20finding%20the%20desired%20kth%20smallest%20element%20in%20array.cpp) |
+| 15 | [15 no of vowels and consonents in string using pointer.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/15%20no%20of%20vowels%20and%20consonents%20in%20string%20using%20pointer.cpp) |
+| 16 | [16 sum of the series (1fact div by 1 ..) using the function.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/16%20sum%20of%20the%20series%20(1fact%20div%20by%201%20..)%20using%20the%20function.cpp) |
+| 17 | [17 simple intrest.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/17%20simple%20intrest.cpp) |
+| 18 | [18 meanof odd,even,square,cube numbers.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/18%20meanof%20odd%2Ceven%2Csquare%2Ccube%20numbers.cpp) |
+| 19 | [19 decimal to binary number using function.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/19%20decimal%20to%20binary%20number%20using%20function.cpp) |
+| 20 | [20 marks of students in 4 subjects,total,aggrebate.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/20%20marks%20of%20students%20in%204%20subjects%2Ctotal%2Caggrebate.cpp) |
+| 21 | [21 maximum and minimum values in an array of integers using function.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/21%20maximum%20and%20minimum%20values%20in%20an%20array%20of%20integers%20using%20function.cpp) |
+| 22 | [22 grades,salary,bonus of employees.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/22%20grades%2Csalary%2Cbonus%20of%20employees.cpp) |
+| 23 | [23 Armstrong or perfect number.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/23%20Armstrong%20or%20perfect%20number.cpp) |
+| 24 | [24 two given strings are an anagram or not.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/24%20two%20given%20strings%20are%20an%20anagram%20or%20not.cpp) |
+| 25 | [25 marks of n student in four subjets.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/25%20marks%20of%20n%20student%20in%20four%20subjets.cpp) |
+| 26 | [26 counting grades jonson problem.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/26%20counting%20grades%20jonson%20problem.cpp) |
 
 
 
