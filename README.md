@@ -5,7 +5,8 @@
 | s.no | program link |
 | --- | --- |
 | 1 | [simple calculator.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/simple%20calculator.cpp) |
-| 2 | [Program 2](https://www.example.com/program-2) |
+| 2 | [2 reversing a num using loop.cpp]https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/2%20reversing%20a%20num%20using%20loop.cpp |
+| 3 | [3 factorial of a number.cpp]https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/3%20factorial%20of%20a%20number.cpp |
 | 4 | [Program 3](https://www.example.com/program-3) |
 | 5 | [Program 3](https://www.example.com/program-3) |
 | 6 | [Program 3](https://www.example.com/program-3) |
