@@ -27,7 +27,7 @@
 | 21 | [21 calculating length of string using pointer.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/21%20calculating%20length%20of%20string%20using%20pointer.cpp) |
 | 22 | [22 sum of all elements in an array using pointers.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/22%20sum%20of%20all%20elements%20in%20an%20array%20using%20pointers.cpp) |
 | 23 | [23 square of number using functions.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/23%20square%20of%20number%20using%20functions.cpp) |
-| 24 | [24 even or odd using functions.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/24%20even%20or%20odd%20using%20functions.cpp) |
+| 24 | [24 even or odd using functions.cpp] (https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/24%20even%20or%20odd%20using%20functions.cpp) |
 | 25 | [25 largest element of an array using the function.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/25%20largest%20element%20of%20an%20array%20using%20the%20function.cpp) |
 | 26 | [26 simple calculator.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/26%20simple%20calculator.cpp) |
 | 27 | [27 Store Information and Display it Using Structure.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/27%20Store%20Information%20and%20Display%20it%20Using%20Structure.cpp) |
