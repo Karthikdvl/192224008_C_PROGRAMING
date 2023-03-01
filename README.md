@@ -46,38 +46,39 @@
 
 | s.no | program link |
 | --- | --- |
-| 1 | 1 Leap year with month and date.cpp |
-| 2 | [Program 2](https://www.example.com/program-2) |
-| 3 | [Program 3](https://www.example.com/program-3) |
-| 4 | [Program 1](https://www.example.com/program-1) |
-| 5 | [Program 2](https://www.example.com/program-2) |
-| 6 | [Program 3](https://www.example.com/program-3) |
-| 7 | [Program 1](https://www.example.com/program-1) |
-| 8 | [Program 2](https://www.example.com/program-2) |
-| 9 | [Program 3](https://www.example.com/program-3) |
-| 10 | [Program 1](https://www.example.com/program-1) |
-| 11 | [Program 2](https://www.example.com/program-2) |
-| 12 | [Program 3](https://www.example.com/program-3) |
-| 13 | []() |
+| 1 | [1 Leap year with month and date.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/1%20Leap%20year%20with%20month%20and%20date.cpp) |
+| 2 | [2 sum of digits of a number.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/2%20sum%20of%20digits%20of%20a%20number.cpp) |
+| 3 | ---- |
+| 4 | [4 print even and odd.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/4%20print%20even%20and%20odd.cpp) |
+| 5 | [5 total users and staf users.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/5%20total%20users%20and%20staf%20users.cpp) |
+| 6 | [6 simple intrest.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/6%20simple%20intrest.cpp) |
+| 7 | [7 matrix multiplication.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/7%20matrix%20multiplication.cpp) |
+| 8 | [8 counting vowels and consonents.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/8%20counting%20vowels%20and%20consonents.cpp) |
+| 9 | [9 matrix multiplication.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/9%20matrix%20multiplication.cpp) |
+| 10 | [10 sum and average of array.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/10%20sum%20and%20average%20of%20array.cpp) |
+| 11 | ---- |
+| 12 | [12 maximum and minimum in array.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/12%20maximum%20and%20minimum%20in%20array.cpp) |
+| 13 | [13 sum and average of numbers in a matrix format.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/13%20sum%20and%20average%20of%20numbers%20in%20a%20matrix%20format.cpp) |
 | 14 | [14 adding two numbers using call by reference.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/14%20adding%20two%20numbers%20using%20call%20by%20reference.cpp) |
-| 15 | []() |
-| 16 | []() |
-| 17 | []() |
-| 18 | []() |
-| 19 | []() |
-| 20 | []() |
-| 21 | []() |
-| 22 | []() |
-| 23 | []() |
-| 24 | []() |
-| 25 | []() |
-| 26 | []() |
-| 27 | []() |
-| 28 | []() |
-| 29 | []() |
-| 30 | []() |
-| 31 | []() |
+| 15 | [15 store n elements in an array and print.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/15%20store%20n%20elements%20in%20an%20array%20and%20print.cpp) |
+| 16 | [16 swaping elements using call by reference.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/16%20swaping%20elements%20using%20call%20by%20reference.cpp) |
+| 17 | [17 factorial of number using pointer.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/17%20factorial%20of%20number%20using%20pointer.cpp) |
+| 18 | [18 sum of elements of array using pointer.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/18%20sum%20of%20elements%20of%20array%20using%20pointer.cpp) |
+| 19 | [19 checking prime using function.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/19%20checking%20prime%20using%20function.cpp) |
+| 20 | [20 perfect num in range using function.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/20%20perfect%20num%20in%20range%20using%20function.cpp) |
+| 21 | [21 to reverse a number using function.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/21%20to%20reverse%20a%20number%20using%20function.cpp) |
+| 22 | [22 complex numbers operations.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/22%20complex%20numbers%20operations.cpp) |
+| 23 | [23 Dynamic memory allocation.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/23%20Dynamic%20memory%20allocation.cpp) |
+| 24 | [24 student(Name , Age) by passing structures to a function.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/24%20student(Name%20%2C%20Age)%20by%20passing%20structures%20to%20a%20function.cpp) |
+| 25 | [25 read contents from the keyboard and write it into the file.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/25%20read%20contents%20from%20the%20keyboard%20and%20write%20it%20into%20the%20file.cpp) |
+| 26 | [26 merge the two text files.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/26%20merge%20the%20two%20text%20files.cpp) |
+| 27 | [27 print equivalent ASCII values.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/27%20print%20equivalent%20ASCII%20values.cpp) |
+| 28 | [28 delete file using system commands.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/28%20delete%20file%20using%20system%20commands.cpp) |
+| 29 | [29 C program to Reverse File Contents.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/29%20C%20program%20to%20Reverse%20File%20Contents.cpp) |
+| 30 | [30 C program to Copy file contents to another file.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/30%20C%20program%20to%20Copy%20file%20contents%20to%20another%20file.cpp) |
+| 31 | [31 counting no of words and lines.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/31%20counting%20no%20of%20words%20and%20lines.cpp) |
 
+## Essay type programs
 
 
 
