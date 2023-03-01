@@ -4,7 +4,7 @@
 
 | s.no | program link |
 | --- | --- |
-| 1 | [Program 1](https://www.example.com/program-1) |
+| 1 | [simple calculator.cpp]([https://www.example.com/program-1](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/simple%20calculator.cpp)) |
 | 2 | [Program 2](https://www.example.com/program-2) |
 | 4 | [Program 3](https://www.example.com/program-3) |
 | 5 | [Program 3](https://www.example.com/program-3) |
