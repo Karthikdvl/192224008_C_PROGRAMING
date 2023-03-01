@@ -2,7 +2,7 @@
 # list of programs
 ## easy programs
 
-| s.no | program link |
+| s.no | program links |
 | --- | --- |
 | 1 | [simple calculator.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/simple%20calculator.cpp) |
 | 2 | [2 reversing a num using loop.cpp](https://github.com/Karthikdvl/192224008_C_PROGRAMING/blob/main/2%20reversing%20a%20num%20using%20loop.cpp) |
