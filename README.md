@@ -44,5 +44,63 @@
 
 ## Mordarate c programs
 
+| s.no | program link |
+| --- | --- |
+| 1 | [Program 1](https://www.example.com/program-1) |
+| 2 | [Program 2](https://www.example.com/program-2) |
+| 3 | [Program 3](https://www.example.com/program-3) |
+| 4 | [Program 1](https://www.example.com/program-1) |
+| 5 | [Program 2](https://www.example.com/program-2) |
+| 6 | [Program 3](https://www.example.com/program-3) |
+| 7 | [Program 1](https://www.example.com/program-1) |
+| 8 | [Program 2](https://www.example.com/program-2) |
+| 9 | [Program 3](https://www.example.com/program-3) |
+| 10 | [Program 1](https://www.example.com/program-1) |
+| 11 | [Program 2](https://www.example.com/program-2) |
+| 12 | [Program 3](https://www.example.com/program-3) |
+| 13 | []() |
+| 14 | [14 adding two numbers using call by reference.cpp]() |
+| 15 | []() |
+| 16 | []() |
+| 17 | []() |
+| 18 | []() |
+| 19 | []() |
+| 20 | []() |
+| 21 | []() |
+| 22 | []() |
+| 23 | []() |
+| 24 | []() |
+| 25 | []() |
+| 26 | []() |
+| 27 | []() |
+| 28 | []() |
+| 29 | []() |
+| 30 | []() |
+| 31 | []() |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
