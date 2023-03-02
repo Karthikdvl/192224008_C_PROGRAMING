@@ -1,71 +1,53 @@
 #include <stdio.h>
 
-// Define a struct for student information
-struct Student {
-    int rollNumber;
+struct student {
+    int roll_no;
     int marks;
     char grade;
 };
 
 int main() {
-    int n, i;
+    int n, i, a_count = 0, b_count = 0, c_count = 0, d_count = 0, f_count = 0;
+    struct student s[100];
+
     printf("Enter the number of students: ");
     scanf("%d", &n);
-    
-    // Create an array of n Student structures
-    struct Student students[n];
-    
-    // Take input from user for each student's roll number and marks
+
     for (i = 0; i < n; i++) {
-        printf("Enter roll number and marks for student %d: ", i+1);
-        scanf("%d %d", &students[i].rollNumber, &students[i].marks);
-    }
-    
-    // Calculate grades for each student and store in the grade field of the struct
-    for (i = 0; i < n; i++) {
-        if (students[i].marks >= 90 && students[i].marks <= 100) {
-            students[i].grade = 'A';
-        } else if (students[i].marks >= 78 && students[i].marks <= 89) {
-            students[i].grade = 'B';
-        } else if (students[i].marks >= 65 && students[i].marks <= 77) {
-            students[i].grade = 'C';
-        } else if (students[i].marks >= 50 && students[i].marks <= 64) {
-            students[i].grade = 'D';
+        printf("Enter student roll number: ");
+        scanf("%d", &s[i].roll_no);
+
+        printf("Enter student marks: ");
+        scanf("%d", &s[i].marks);
+
+        if (s[i].marks >= 90 && s[i].marks <= 100) {
+            s[i].grade = 'A';
+            a_count++;
+        } else if (s[i].marks >= 78 && s[i].marks <= 89) {
+            s[i].grade = 'B';
+            b_count++;
+        } else if (s[i].marks >= 65 && s[i].marks <= 77) {
+            s[i].grade = 'C';
+            c_count++;
+        } else if (s[i].marks >= 50 && s[i].marks <= 64) {
+            s[i].grade = 'D';
+            d_count++;
         } else {
-            students[i].grade = 'F';
+            s[i].grade = 'F';
+            f_count++;
         }
     }
-    
-    // Print the number of students in each grade
-    int numA = 0, numB = 0, numC = 0, numD = 0, numF = 0;
+
+    printf("\nGrades of %d students:\n", n);
     for (i = 0; i < n; i++) {
-        switch (students[i].grade) {
-            case 'A':
-                numA++;
-                break;
-            case 'B':
-                numB++;
-                break;
-            case 'C':
-                numC++;
-                break;
-            case 'D':
-                numD++;
-                break;
-            case 'F':
-                numF++;
-                break;
-            default:
-                break;
-        }
+        printf("Roll No.: %d\tMarks: %d\tGrade: %c\n", s[i].roll_no, s[i].marks, s[i].grade);
     }
-    
-    printf("Number of students in each grade:\n");
-    printf("A: %d\n", numA);
-    printf("B: %d\n", numB);
-    printf("C: %d\n", numC);
-    printf("D: %d\n", numD);
-    printf("F: %d\n", numF);
-    
+
+    printf("\nNumber of students with grade A: %d\n", a_count);
+    printf("Number of students with grade B: %d\n", b_count);
+    printf("Number of students with grade C: %d\n", c_count);
+    printf("Number of students with grade D: %d\n", d_count);
+    printf("Number of students with grade F: %d\n", f_count);
+
     return 0;
 }
